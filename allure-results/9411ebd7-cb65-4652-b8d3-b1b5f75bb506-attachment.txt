@@ -1,0 +1,8 @@
+Launch the URL
+login with creds
+search the product
+add to cart the product
+select/add the delivery address
+make a payment with credit card
+order success
+after cancel the order

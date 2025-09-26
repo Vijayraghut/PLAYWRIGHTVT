@@ -1,0 +1,366 @@
+# Page snapshot
+
+```yaml
+- link "Fork me on GitHub":
+  - /url: https://github.com/tourdedave/the-internet
+  - img "Fork me on GitHub"
+- heading "File Downloader" [level=3]
+- link "AsyncCallbacks.c":
+  - /url: download/AsyncCallbacks.c
+- link "test-upload.txt":
+  - /url: download/test-upload.txt
+- link "test6476206637722428005.tmp":
+  - /url: download/test6476206637722428005.tmp
+- link "Robot framework.txt":
+  - /url: download/Robot framework.txt
+- link "test.png":
+  - /url: download/test.png
+- link "sample2.csv":
+  - /url: download/sample2.csv
+- link "selenide-grid.3376598077139897038.temp.txt":
+  - /url: download/selenide-grid.3376598077139897038.temp.txt
+- link "Jpeg_with_exif.jpeg":
+  - /url: download/Jpeg_with_exif.jpeg
+- link "Upload File.txt":
+  - /url: download/Upload File.txt
+- link "test6539574565010319986.tmp":
+  - /url: download/test6539574565010319986.tmp
+- link "checkouts_export.csv":
+  - /url: download/checkouts_export.csv
+- link "sm.jpg":
+  - /url: download/sm.jpg
+- link "SampleFile.txt":
+  - /url: download/SampleFile.txt
+- link "test4321058996367656631.tmp":
+  - /url: download/test4321058996367656631.tmp
+- link "test474011883071532908.tmp":
+  - /url: download/test474011883071532908.tmp
+- link "example.png":
+  - /url: download/example.png
+- link "random_data.txt":
+  - /url: download/random_data.txt
+- link "test.txt":
+  - /url: download/test.txt
+- link "file_1758555211288.pdf":
+  - /url: download/file_1758555211288.pdf
+- link "testupload.jpeg":
+  - /url: download/testupload.jpeg
+- link "pic XS 22811 m27s20.png":
+  - /url: download/pic XS 22811 m27s20.png
+- link "document1.pdf":
+  - /url: download/document1.pdf
+- link "7A2C4C65-5C8C-4F95-AC7B-A7F7265DB1CD.png":
+  - /url: download/7A2C4C65-5C8C-4F95-AC7B-A7F7265DB1CD.png
+- link "selenide-browserstack.11663738813626243403.temp.txt":
+  - /url: download/selenide-browserstack.11663738813626243403.temp.txt
+- link "test9789894965140738073.tmp":
+  - /url: download/test9789894965140738073.tmp
+- link "test12876697148026324551.tmp":
+  - /url: download/test12876697148026324551.tmp
+- link "example.txt":
+  - /url: download/example.txt
+- link "test18137429626016531684.tmp":
+  - /url: download/test18137429626016531684.tmp
+- link "Chachi1.jpeg":
+  - /url: download/Chachi1.jpeg
+- link "webdriverIO.png":
+  - /url: download/webdriverIO.png
+- link "test13963096184463447792.tmp":
+  - /url: download/test13963096184463447792.tmp
+- link "Media-_39_.jpg":
+  - /url: download/Media-_39_.jpg
+- link "sample-zip-file.zip":
+  - /url: download/sample-zip-file.zip
+- link "sample.odt":
+  - /url: download/sample.odt
+- link "test6427718695509504224.tmp":
+  - /url: download/test6427718695509504224.tmp
+- link "selenide-lambdatest.6357380278874228429.temp.txt":
+  - /url: download/selenide-lambdatest.6357380278874228429.temp.txt
+- link "Technical_Test_Lead_Specification.pdf":
+  - /url: download/Technical_Test_Lead_Specification.pdf
+- link "testing.pdf":
+  - /url: download/testing.pdf
+- link "elemscreenshot.png":
+  - /url: download/elemscreenshot.png
+- link "test_image.png":
+  - /url: download/test_image.png
+- link "test3327642861619899676.tmp":
+  - /url: download/test3327642861619899676.tmp
+- link "TextDoc.txt":
+  - /url: download/TextDoc.txt
+- link "sample.jmx":
+  - /url: download/sample.jmx
+- link "TestData.xlsx":
+  - /url: download/TestData.xlsx
+- link "test12103036406023440659.tmp":
+  - /url: download/test12103036406023440659.tmp
+- link "users.json":
+  - /url: download/users.json
+- link "targetScreenshot (3).png":
+  - /url: download/targetScreenshot (3).png
+- link "resume.docx":
+  - /url: download/resume.docx
+- link "uploadfile.txt":
+  - /url: download/uploadfile.txt
+- link "Image.PNG":
+  - /url: download/Image.PNG
+- link "tmp9cwnga1s.txt":
+  - /url: download/tmp9cwnga1s.txt
+- link "tmpoomny30v.txt":
+  - /url: download/tmpoomny30v.txt
+- link "STREET.jpg":
+  - /url: download/STREET.jpg
+- link "test5220965701533681910.tmp":
+  - /url: download/test5220965701533681910.tmp
+- link "test10698874237184928080.tmp":
+  - /url: download/test10698874237184928080.tmp
+- link "Bug Report 1.9.pdf":
+  - /url: download/Bug Report 1.9.pdf
+- link "download.jpeg":
+  - /url: download/download.jpeg
+- link "selenide-grid.2311192991672952549.temp.txt":
+  - /url: download/selenide-grid.2311192991672952549.temp.txt
+- link "megadyneBladeHero.jpg":
+  - /url: download/megadyneBladeHero.jpg
+- link "PRD 32 - Hotel listing booking.com.pdf":
+  - /url: download/PRD 32 - Hotel listing booking.com.pdf
+- link "test14429490146291972888.tmp":
+  - /url: download/test14429490146291972888.tmp
+- link "sample5.docx":
+  - /url: download/sample5.docx
+- link "test_file.txt":
+  - /url: download/test_file.txt
+- link "test17522605049084026305.tmp":
+  - /url: download/test17522605049084026305.tmp
+- link "renamed.json":
+  - /url: download/renamed.json
+- link "swag lab husna.xlsx":
+  - /url: download/swag lab husna.xlsx
+- link "Test.png":
+  - /url: download/Test.png
+- link "app_liveBug.jpg":
+  - /url: download/app_liveBug.jpg
+- link "file.json":
+  - /url: download/file.json
+- link "Selenium Automation Testing Day12.docx":
+  - /url: download/Selenium Automation Testing Day12.docx
+- link "screenshot.png":
+  - /url: download/screenshot.png
+- link "some-file.txt":
+  - /url: download/some-file.txt
+- link "test10811192121345173791.tmp":
+  - /url: download/test10811192121345173791.tmp
+- link "ccmt.jpg":
+  - /url: download/ccmt.jpg
+- link "test6227235124846909265.tmp":
+  - /url: download/test6227235124846909265.tmp
+- link "FileUpload.txt":
+  - /url: download/FileUpload.txt
+- link "cypress.png":
+  - /url: download/cypress.png
+- link "test12887898637656252846.tmp":
+  - /url: download/test12887898637656252846.tmp
+- link "sample4.pptx":
+  - /url: download/sample4.pptx
+- link "zero_bytes_file.txt":
+  - /url: download/zero_bytes_file.txt
+- link "Mayank_Resume (1).pdf":
+  - /url: download/Mayank_Resume (1).pdf
+- link "sampleFile.txt":
+  - /url: download/sampleFile.txt
+- link "shreya raj (resume).pdf":
+  - /url: download/shreya raj (resume).pdf
+- link "test447665058735117019.tmp":
+  - /url: download/test447665058735117019.tmp
+- link "selenium-snapshot.png":
+  - /url: download/selenium-snapshot.png
+- link "test16375586857823306455.tmp":
+  - /url: download/test16375586857823306455.tmp
+- link "FirstUpload.pdf":
+  - /url: download/FirstUpload.pdf
+- link "ChatGPT_&_Prompt_Eng.pdf":
+  - /url: download/ChatGPT_&_Prompt_Eng.pdf
+- link "StudentData.json":
+  - /url: download/StudentData.json
+- link "sample.txt":
+  - /url: download/sample.txt
+- link "test10437503978756550601.tmp":
+  - /url: download/test10437503978756550601.tmp
+- link "sample3.pdf":
+  - /url: download/sample3.pdf
+- link "MyResume.pdf":
+  - /url: download/MyResume.pdf
+- link "LambdaTest.txt":
+  - /url: download/LambdaTest.txt
+- link "test10730357842590032576.tmp":
+  - /url: download/test10730357842590032576.tmp
+- link "Foram_Trivedi_Portfolio_Layout.png":
+  - /url: download/Foram_Trivedi_Portfolio_Layout.png
+- link "testing_edge.pdf":
+  - /url: download/testing_edge.pdf
+- link "custom.js":
+  - /url: download/custom.js
+- link "gratisography-augmented-reality-800x525.jpg":
+  - /url: download/gratisography-augmented-reality-800x525.jpg
+- link "file_1758555386372.pdf":
+  - /url: download/file_1758555386372.pdf
+- link "myfile.pdf":
+  - /url: download/myfile.pdf
+- link "test-file.txt":
+  - /url: download/test-file.txt
+- link "download.jpg":
+  - /url: download/download.jpg
+- link "test16105802548526367878.tmp":
+  - /url: download/test16105802548526367878.tmp
+- link "p4.jpg":
+  - /url: download/p4.jpg
+- link "test-image.png":
+  - /url: download/test-image.png
+- link "test6334793215124568173.tmp":
+  - /url: download/test6334793215124568173.tmp
+- link "file_1758555413724.pdf":
+  - /url: download/file_1758555413724.pdf
+- link "testing.mp3":
+  - /url: download/testing.mp3
+- link "test15992964727589776342.tmp":
+  - /url: download/test15992964727589776342.tmp
+- link "products-sample.csv":
+  - /url: download/products-sample.csv
+- link "file.exe":
+  - /url: download/file.exe
+- link "1123.pdf":
+  - /url: download/1123.pdf
+- link "test3940151731996651016.tmp":
+  - /url: download/test3940151731996651016.tmp
+- link "selenide-lambdatest.4099728109844630343.temp.txt":
+  - /url: download/selenide-lambdatest.4099728109844630343.temp.txt
+- link "QA PROCESS(o360 Solutions).pdf":
+  - /url: download/QA PROCESS(o360 Solutions).pdf
+- link "test2578194796346571088.tmp":
+  - /url: download/test2578194796346571088.tmp
+- link "sample3.txt":
+  - /url: download/sample3.txt
+- link "test12144372897662904773.tmp":
+  - /url: download/test12144372897662904773.tmp
+- link "download.png":
+  - /url: download/download.png
+- link "puppy.png":
+  - /url: download/puppy.png
+- link "123.jpg":
+  - /url: download/123.jpg
+- link "123.jpeg":
+  - /url: download/123.jpeg
+- link "test5988736476945487812.tmp":
+  - /url: download/test5988736476945487812.tmp
+- link "test8512282178996747547.tmp":
+  - /url: download/test8512282178996747547.tmp
+- link "086.png":
+  - /url: download/086.png
+- link "testFile.txt":
+  - /url: download/testFile.txt
+- link "JnJ_SciMax Content Matrix 09 JUL 2025_FR-CA (1).xlsx":
+  - /url: download/JnJ_SciMax Content Matrix 09 JUL 2025_FR-CA (1).xlsx
+- link "image2.jpeg":
+  - /url: download/image2.jpeg
+- link "JnJ_1.2_Sprint_Planning 1.xlsx":
+  - /url: download/JnJ_1.2_Sprint_Planning 1.xlsx
+- link "7d2c5299e08a3426d5a9d62cfd8d285a1c7cb0d7 Build report.pdf":
+  - /url: download/7d2c5299e08a3426d5a9d62cfd8d285a1c7cb0d7 Build report.pdf
+- link "demo.txt":
+  - /url: download/demo.txt
+- link "thumb-Clipboard - April 29, 2025 6_39 PM.png":
+  - /url: download/thumb-Clipboard - April 29, 2025 6_39 PM.png
+- link "testing_firefox.pdf":
+  - /url: download/testing_firefox.pdf
+- link "لقطة شاشة 2025-09-22 141136.png":
+  - /url: download/لقطة شاشة 2025-09-22 141136.png
+- link "test13722070924206815581.tmp":
+  - /url: download/test13722070924206815581.tmp
+- link "test10275677164631569715.tmp":
+  - /url: download/test10275677164631569715.tmp
+- link "sample_media_file.png":
+  - /url: download/sample_media_file.png
+- link "example.json":
+  - /url: download/example.json
+- link "file_1758555204385.pdf":
+  - /url: download/file_1758555204385.pdf
+- link "input.csv":
+  - /url: download/input.csv
+- link "chrome.exe":
+  - /url: download/chrome.exe
+- link "2025_08_23_10s_Kleki.png":
+  - /url: download/2025_08_23_10s_Kleki.png
+- link "test3433984563424771751.tmp":
+  - /url: download/test3433984563424771751.tmp
+- link "sample.jpg":
+  - /url: download/sample.jpg
+- link "photo_cv.jpg":
+  - /url: download/photo_cv.jpg
+- link "Action.c":
+  - /url: download/Action.c
+- link "test17310334911209559681.tmp":
+  - /url: download/test17310334911209559681.tmp
+- link "StudentData 1.json":
+  - /url: download/StudentData 1.json
+- link "test4433511754379763143.tmp":
+  - /url: download/test4433511754379763143.tmp
+- link "empty.txt":
+  - /url: download/empty.txt
+- link "CV_Grad1.0.pdf":
+  - /url: download/CV_Grad1.0.pdf
+- link "test_upload_file.txt":
+  - /url: download/test_upload_file.txt
+- link "Screenshot 2025-01-17 101251.png":
+  - /url: download/Screenshot 2025-01-17 101251.png
+- link "test14238393091044774050.tmp":
+  - /url: download/test14238393091044774050.tmp
+- link "test1977748918169710826.tmp":
+  - /url: download/test1977748918169710826.tmp
+- link "playwrightlogo.png":
+  - /url: download/playwrightlogo.png
+- link "bb.txt":
+  - /url: download/bb.txt
+- link "C7EA8402-A52E-4E2D-8F5A-3D4181517C7A.png":
+  - /url: download/C7EA8402-A52E-4E2D-8F5A-3D4181517C7A.png
+- link "large-test-file.txt":
+  - /url: download/large-test-file.txt
+- link "reena.txt":
+  - /url: download/reena.txt
+- link "selenide-browserstack.17080493108649350509.temp.txt":
+  - /url: download/selenide-browserstack.17080493108649350509.temp.txt
+- link "Excel.xlsx":
+  - /url: download/Excel.xlsx
+- link "Screenshot 2023-12-27 133459.png":
+  - /url: download/Screenshot 2023-12-27 133459.png
+- link "test3630770991097156942.tmp":
+  - /url: download/test3630770991097156942.tmp
+- link "Expert SMM Panel-1.apk":
+  - /url: download/Expert SMM Panel-1.apk
+- link "Mayank_Resume.pdf":
+  - /url: download/Mayank_Resume.pdf
+- link "file-example_PDF_500_kB.pdf":
+  - /url: download/file-example_PDF_500_kB.pdf
+- link "spectrum-logo.png":
+  - /url: download/spectrum-logo.png
+- link "Media.png":
+  - /url: download/Media.png
+- link "test10228427637606544430.tmp":
+  - /url: download/test10228427637606544430.tmp
+- link "sample.pdf":
+  - /url: download/sample.pdf
+- link "chromedriver.exe":
+  - /url: download/chromedriver.exe
+- link "Green_Check.png":
+  - /url: download/Green_Check.png
+- link "chippy resume.docx.pdf":
+  - /url: download/chippy  resume.docx.pdf
+- link "test12344268207941904366.tmp":
+  - /url: download/test12344268207941904366.tmp
+- link "12.jpg":
+  - /url: download/12.jpg
+- separator
+- text: Powered by
+- link "Elemental Selenium":
+  - /url: http://elementalselenium.com/
+```

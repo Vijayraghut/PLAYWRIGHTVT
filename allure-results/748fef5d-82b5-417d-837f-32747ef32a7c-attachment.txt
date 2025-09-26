@@ -1,0 +1,9 @@
+Launch the URL
+login with creds
+search the product
+add to cart the product
+select/add the delivery address
+make a payment with net banking
+order success
+after cancel the order
+After all it wil execute once

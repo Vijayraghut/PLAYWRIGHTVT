@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userName": "Admin",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 7,
+        "employeeId": "3245",
+        "firstName": "John",
+        "middleName": "Doe",
+        "lastName": "Doe",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 1,
+        "name": "Admin",
+        "displayName": "Admin"
+      }
+    }
+  ],
+  "meta": {
+    "total": 1
+  },
+  "rels": []
+}

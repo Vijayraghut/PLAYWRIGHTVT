@@ -1,0 +1,162 @@
+# Page snapshot
+
+```yaml
+- link "Fork me on GitHub":
+  - /url: https://github.com/tourdedave/the-internet
+  - img "Fork me on GitHub"
+- heading "File Downloader" [level=3]
+- link "example.txt":
+  - /url: download/example.txt
+- link "some-file.txt":
+  - /url: download/some-file.txt
+- link "fileupload.xlsx":
+  - /url: download/fileupload.xlsx
+- link "foto2.png":
+  - /url: download/foto2.png
+- link "temp_upload.txt":
+  - /url: download/temp_upload.txt
+- link "test.csv":
+  - /url: download/test.csv
+- link "icon1.png":
+  - /url: download/icon1.png
+- link "tmp989fhoxj.txt":
+  - /url: download/tmp989fhoxj.txt
+- link "tmp_mzqkihd.txt":
+  - /url: download/tmp_mzqkihd.txt
+- link "anjali.kumbar.bmp":
+  - /url: download/anjali.kumbar.bmp
+- link "C2E5BA07-2202-4016-98E6-2B353401EC94.png":
+  - /url: download/C2E5BA07-2202-4016-98E6-2B353401EC94.png
+- link "sample_upload.txt":
+  - /url: download/sample_upload.txt
+- link "5283302.png":
+  - /url: download/5283302.png
+- link "tmpr4x3ln5z.txt":
+  - /url: download/tmpr4x3ln5z.txt
+- link "test2.txt":
+  - /url: download/test2.txt
+- link "loc.jpg":
+  - /url: download/loc.jpg
+- link "test_cypress.png":
+  - /url: download/test_cypress.png
+- link "bb.txt":
+  - /url: download/bb.txt
+- link "eclipse_7g0UlP4NNY.png":
+  - /url: download/eclipse_7g0UlP4NNY.png
+- link "large_test_file.txt":
+  - /url: download/large_test_file.txt
+- link "Jpeg_with_exif.jpeg":
+  - /url: download/Jpeg_with_exif.jpeg
+- link "sample.pdf":
+  - /url: download/sample.pdf
+- link "targetScreenshot (3).png":
+  - /url: download/targetScreenshot (3).png
+- link "sample-zip-file.zip":
+  - /url: download/sample-zip-file.zip
+- link "test.png":
+  - /url: download/test.png
+- link "upload_file.txt":
+  - /url: download/upload_file.txt
+- link "empty_file.txt":
+  - /url: download/empty_file.txt
+- link "sample_media_file.png":
+  - /url: download/sample_media_file.png
+- link "testfile.txt":
+  - /url: download/testfile.txt
+- link "adorable-anima.jpg":
+  - /url: download/adorable-anima.jpg
+- link "Test2.pdf":
+  - /url: download/Test2.pdf
+- link "textuploadfile.txt":
+  - /url: download/textuploadfile.txt
+- link "example.json":
+  - /url: download/example.json
+- link "chromedriver.exe":
+  - /url: download/chromedriver.exe
+- link "playwrightlogo.png":
+  - /url: download/playwrightlogo.png
+- link "test-upload.txt":
+  - /url: download/test-upload.txt
+- link "SomeFile.txt":
+  - /url: download/SomeFile.txt
+- link "my_custom_file.txt":
+  - /url: download/my_custom_file.txt
+- link "random_data.txt":
+  - /url: download/random_data.txt
+- link "foto.png":
+  - /url: download/foto.png
+- link "imagen_2025-09-25_193203179.png":
+  - /url: download/imagen_2025-09-25_193203179.png
+- link "file.json":
+  - /url: download/file.json
+- link "test1.pdf":
+  - /url: download/test1.pdf
+- link "test.xml":
+  - /url: download/test.xml
+- link "zero_bytes_file.txt":
+  - /url: download/zero_bytes_file.txt
+- link "LambdaTest.txt":
+  - /url: download/LambdaTest.txt
+- link "examplefile.json":
+  - /url: download/examplefile.json
+- link "upload_demo.txt":
+  - /url: download/upload_demo.txt
+- link "Introduction.txt":
+  - /url: download/Introduction.txt
+- link "test1.txt":
+  - /url: download/test1.txt
+- link "hello.txt":
+  - /url: download/hello.txt
+- link "1CDE9DDE-F799-4911-9588-793D5D8347F1.png":
+  - /url: download/1CDE9DDE-F799-4911-9588-793D5D8347F1.png
+- link "tmpqxu8ggck.txt":
+  - /url: download/tmpqxu8ggck.txt
+- link "sample3.pdf":
+  - /url: download/sample3.pdf
+- link "Test4.png":
+  - /url: download/Test4.png
+- link "testUpload.json":
+  - /url: download/testUpload.json
+- link "jenkins.war":
+  - /url: download/jenkins.war
+- link "selenide-intro.txt":
+  - /url: download/selenide-intro.txt
+- link "test_upload.txt":
+  - /url: download/test_upload.txt
+- link "sample.png":
+  - /url: download/sample.png
+- link "test-image.png":
+  - /url: download/test-image.png
+- link "test_file.txt":
+  - /url: download/test_file.txt
+- link "luminoslogo.png":
+  - /url: download/luminoslogo.png
+- link "empty.txt":
+  - /url: download/empty.txt
+- link "selenium-snapshot.png":
+  - /url: download/selenium-snapshot.png
+- link "sample.txt":
+  - /url: download/sample.txt
+- link "speedtest.png":
+  - /url: download/speedtest.png
+- link "large-test-file.txt":
+  - /url: download/large-test-file.txt
+- link "tmpm7gilhb5.txt":
+  - /url: download/tmpm7gilhb5.txt
+- link "selenium-java.jar":
+  - /url: download/selenium-java.jar
+- link "test.txt":
+  - /url: download/test.txt
+- link "test2.pdf":
+  - /url: download/test2.pdf
+- link "dataFiles.xlsx":
+  - /url: download/dataFiles.xlsx
+- link "test.json":
+  - /url: download/test.json
+- link "excel.xlsx":
+  - /url: download/excel.xlsx
+- separator
+- text: Powered by
+- link "Elemental Selenium":
+  - /url: http://elementalselenium.com/
+```

@@ -1,0 +1,9 @@
+Before All Say Hii
+Launch the URL
+login with creds
+search the product
+add to cart the product
+select/add the delivery address
+make a payment with debit card
+order success
+after cancel the order

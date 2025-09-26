@@ -1,0 +1,5 @@
+Launching the application
+Entering username
+Entering password
+Clicking on login button 
+Closing the browser

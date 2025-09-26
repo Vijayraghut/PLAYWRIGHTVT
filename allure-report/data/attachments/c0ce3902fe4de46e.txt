@@ -1,0 +1,6 @@
+Launching the application
+Entering username
+Entering password
+Clicking on login button 
+ymwz6
+Closing the browser
