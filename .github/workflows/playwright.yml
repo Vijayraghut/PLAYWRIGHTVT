@@ -1,0 +1,30 @@
+name: Playwright Tests
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:                   #this is time shedule when or at what time (min,hour),date,month,weak
+    - cron : '00 9 * * *'     #"00"(min),9(hour),* (day of the month 1-31),* (month 1-12),*(day of the week 0-6)
+
+jobs:
+  test:
+    timeout-minutes: 60  #we can increse the time # all test cases will run for up to 60 min after remaining test cases will be failed and provide the reports
+    runs-on: ubuntu-latest #mac-latest#windows-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: lts/*
+    - name: Install dependencies
+      run: npm ci
+    - name: Install Playwright Browsers
+      run: npx playwright install --with-deps
+    - name: Run Playwright tests
+      run: npx playwright test
+    - uses: actions/upload-artifact@v4
+      if: ${{ !cancelled() }}
+      with:
+        name: playwright-report
+        path: playwright-report/
+        retention-days: 30
